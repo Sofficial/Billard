@@ -15,6 +15,3 @@ T - Quader länger				G - Quader kürzer
 Z - Quader/Zylinder höher			H - Quader/Zylinder kürzer
 U - Quader/Zylinder breiter			J - Quader/Zylinder kürzer
 K - Quader/Zylinder nach Links rotieren		 I - Quaer/Zylinder nach rechts rotieren
-
-
-![Objekte](https://i.imgur.com/rzFljTD.png)
